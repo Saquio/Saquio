@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saquib
-- 👀 I’m interested in Machine Learning, NLP, 
+- 👀 I’m interested in Machine Learning, NLP, Computer Vision
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on Kaggle projects
 - 📫 How to reach me email me: analystsaquib@gmail.com
